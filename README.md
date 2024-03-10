@@ -1,1 +1,1 @@
-# aulasLP3
+# Repositório para aulas de Python.
