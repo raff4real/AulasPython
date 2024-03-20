@@ -9,9 +9,9 @@
 
 # if/else
 
-if idade >=18
+if idade >=18:
     print ('maior')
-else
+else:
     print ('menor')
 
 # elif (ignora o resto do codigo assim q acha a condicao)
